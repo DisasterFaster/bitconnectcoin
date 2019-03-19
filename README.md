@@ -1,3 +1,5 @@
+### Bitconnect Coin <img src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.1.0.0&x2=0">
+
 #General Introduction of Bitconnectcoin
 Bitconnect Coin is a secure and energy efficient PoW/PoS coin. Bitconnect Coin uses a faster PoW distribution mechanism to distribute the initial coins, then after few days the coin is basically transferred to a pure PoS coin, where the generation of the coin is mainly through the PoS interests.
 
