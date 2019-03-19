@@ -5,6 +5,20 @@
 ## General Introduction of Bitconnectcoin
 Bitconnect Coin is a secure and energy efficient PoW/PoS coin. Bitconnect Coin uses a faster PoW distribution mechanism to distribute the initial coins, then after few days the coin is basically transferred to a pure PoS coin, where the generation of the coin is mainly through the PoS interests.
 
+## Important Links
+
+> * __Website:__ [https://bitconnectcoin.info](https://bitconnectcoin.info)
+> * __Block Explorer:__ [https://explorer.bitconnectcoin.info](https://explorer.bitconnectcoin.info)
+> * __GitHub:__ [https://github.com/BitconnectCommunity/bitconnectcoin](https://github.com/BitconnectCommunity/bitconnectcoin)
+> * __Palitanx Exchange:__ [https://palitanx.com/exchange/BTC-BCC](https://palitanx.com/exchange/BTC-BCC)
+> * __CoinMarketCap:__ [https://coinmarketcap.com/currencies/bitconnect](https://coinmarketcap.com/currencies/bitconnect)
+> * __WorldCoinIndex:__ [https://www.worldcoinindex.com/nl/munt/bitconnect](https://www.worldcoinindex.com/nl/munt/bitconnect)
+> * __DigitalCoinPrice:__ [https://digitalcoinprice.com/coins/bitconnect](https://digitalcoinprice.com/coins/bitconnect)
+> * __CoinPaprika:__ [https://coinpaprika.com/coin/bcc-bitconnect](https://coinpaprika.com/coin/bcc-bitconnect)
+> * __Twitter:__ [https://twitter.com/Bitconnect_Coin](https://twitter.com/Bitconnect_Coin)
+> * __YouTube:__ [https://www.youtube.com/channel/UCDfJLBih2bj-rPU-SINY7rg](https://www.youtube.com/channel/UCDfJLBih2bj-rPU-SINY7rg)
+> * __Discord:__ [https://discord.gg/PUFmche](https://discord.gg/PUFmche)
+
 ## Bitconnect Coin Specification
 
 Maximum 28 million BitConnect coin will ever exist to the community.
