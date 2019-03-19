@@ -1,4 +1,4 @@
-### Bitconnect Coin <img src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.1.0.0&x2=0">
+# Bitconnect Coin <img src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.1.0.0&x2=0">
 
 <div style="text-align:center;"><img src="https://github.com/DisasterFaster/bitconnectcoin/blob/master/img/Slide1.JPG" alt="Bitconnect Coin"></div>
 
